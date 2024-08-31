@@ -87,7 +87,5 @@ The output provides the following details for each partition:
 
 ## Example of the output
 
-
-Device    Start        End    Sectors   Size      Id  Type
-/dev/sdb  2048      52428799  52426752  25599     5   Extended  
-/dev/sdb  2048      52426751  52424704  25598     83  Linux     
+![image](https://github.com/user-attachments/assets/33b80486-45b3-4224-95ce-3890ab9ef3b0)
+   
