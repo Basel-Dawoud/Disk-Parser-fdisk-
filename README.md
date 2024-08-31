@@ -85,4 +85,4 @@ The output provides the following details for each partition:
    - **Reads and prints partitions**.
    - **Cleans up** resources and closes the file descriptor.
 
-**Good Luck
+# Good Luck
