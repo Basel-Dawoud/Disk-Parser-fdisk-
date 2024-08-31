@@ -85,4 +85,9 @@ The output provides the following details for each partition:
    - **Reads and prints partitions**.
    - **Cleans up** resources and closes the file descriptor.
 
-# Good Luck
+## Example of the output
+
+
+Device    Start        End    Sectors   Size      Id  Type
+/dev/sdb  2048      52428799  52426752  25599     5   Extended  
+/dev/sdb  2048      52426751  52424704  25598     83  Linux     
